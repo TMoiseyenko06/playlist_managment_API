@@ -32,6 +32,7 @@ app.config["SQLALCHEMY_DATABASE_URI"] = (
     "mysql+mysqlconnector://root:*********@localhost/playlist_api"
 )
 ```
+Set up the VENV
  
 Run the flask app
 
